@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "207219542507",
+    "firebase_url": "https://miu-portal.firebaseio.com",
+    "project_id": "miu-portal",
+    "storage_bucket": "miu-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207219542507:android:9803e01f2c356815",
+        "android_client_info": {
+          "package_name": "me.hasan.miuportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207219542507-oar50jutrkki0ko5r500mg4uqgam77d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB84qzdWlKxk5tNnV4lLXM4SuadjTY1JOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
